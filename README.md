@@ -1,1 +1,0 @@
-# yokekhei.github.io
