@@ -334,7 +334,7 @@ a[data-toggle="collapse"] {
   background-image: url(../images/bg.jpg);
 }
 
-.contact {
+.sidebar-bottom {
   position: absolute;
   display: inline-block;
   bottom: 0;
