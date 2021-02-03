@@ -340,3 +340,7 @@ a[data-toggle="collapse"] {
   bottom: 0;
   left: 15px;
 }
+
+.tabbed {
+  padding-right: 4.00em;
+}
