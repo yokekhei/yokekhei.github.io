@@ -40,6 +40,14 @@ export const portfolios: Portfolio[] = [
         repository: 'https://github.com/yokekhei/simplilearn_fsd_projects/tree/master/Capstone/foodBox',
         monthCreated: 3,
         yearCreated: 2021
+    },
+    {
+        name: 'Decentralized Movie Rating Application',
+        desc: 'A simple Solidity smart contract for tracking movie ratings and customer reviews.',
+        keywords: ['Ethereum', 'Solidity', 'Truffle'],
+        repository: 'https://github.com/yokekhei/dapp-movie-rating',
+        monthCreated: 7,
+        yearCreated: 2021
     }
 ];
 
