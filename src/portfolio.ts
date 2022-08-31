@@ -3,6 +3,7 @@ export default interface Porfolio {
     desc: string;
     keywords: string[];
     repository: string;
+    demo: boolean;
     monthCreated: number;
     yearCreated: number;
 }

@@ -84,7 +84,7 @@ function displayCards(pfs: Portfolio[]) {
                         <div class="col-md-2">
                             <p class="mb-0">
                                 <a href="${pf.repository}" target="_blank">
-                                    <i class="fa fa-github"></i>&nbsp;repository
+                                    <i class="${pf.demo ? "fa fa-link" : "fa fa-github"}"></i>&nbsp;${pf.demo ? "demo" : "repository"}
                                 </a>
                             </p>
                         </div>
